@@ -1,0 +1,6 @@
+ID,Name,Age,Salary,Department,Join_Date
+1,Alice,25.0,50000.0,HR,2020-01-15
+2,Bob,,60000.0,Finance,2021-05-20
+3,,35.0,,IT,
+4,David,40.0,,,2019-11-01
+5,Eve,,80000.0,Marketing,2022-07-18
