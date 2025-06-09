@@ -7,6 +7,17 @@
 * 3유형 : 통계적 가설검정 (2문제)
 
 # uv로 실행하기
+## uv 설치하기
+macOS에서 homebrew를 통한 설치
+```bash
+brew install uv
+```
+
+Windows에서 PowerShell을 통한 설치
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
 ## uv로 가상환경 생성
 ```zsh
 # `uv venv` + `디렉토리 이름` + `--python + (버전)` + `--seed`
